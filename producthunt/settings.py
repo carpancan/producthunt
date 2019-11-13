@@ -24,8 +24,9 @@ SECRET_KEY = '3ex*xn=pa!egb!ih&3e)j%4$0!v%nc1+t$cj%@cjyh(j-y)l_h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition

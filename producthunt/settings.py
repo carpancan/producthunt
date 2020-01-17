@@ -26,7 +26,7 @@ SECRET_KEY = '3ex*xn=pa!egb!ih&3e)j%4$0!v%nc1+t$cj%@cjyh(j-y)l_h'
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = []
 
 
 # Application definition

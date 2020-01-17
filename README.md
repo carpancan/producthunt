@@ -15,7 +15,7 @@ git clone git@github.com:carpancan/producthunt.git
 pip install -r producthunt/requirements.txt
 
 ## DATABASE
-Database used is postgresql, but you can change by another one
+Database used is postgresql, but you can change by another one. In case of maintain postgresql or mysql, the database that you use must be created at first.
 
 ## CREATE SUPERUSER TO START USE WEB PROJECT
 * cd producthunt
